@@ -147,15 +147,22 @@ Implemented security practices include:
 
 ---
 
-# Screenshots
-
+# Platform Preview
+# Login Page
 <img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/1fd0a43b-9512-4bd4-b94e-70d40923fe3c" />
+# Agent Dashboard
 <img width="1901" height="868" alt="image" src="https://github.com/user-attachments/assets/aef5c284-5f60-43c4-9dc4-579f55a8e90e" />
+# Queue Management
 <img width="1897" height="860" alt="image" src="https://github.com/user-attachments/assets/e38c8cdd-7ad8-48dc-baa8-00e7fc56058c" />
+# Real-Time Calling Interface
 <img width="1920" height="2198" alt="screencapture-localhost-3000-Dialer-2026-05-16-23_13_54" src="https://github.com/user-attachments/assets/69e36534-b63f-4c6f-ad02-664eeac5a95b" />
+# Reporting & Analytics
 <img width="1920" height="1293" alt="screencapture-localhost-3000-Reports-2026-05-16-23_14_41" src="https://github.com/user-attachments/assets/bb7a97e9-56d3-4b08-af2f-64a1ec4d8c4b" />
+# Call Logs
 <img width="1907" height="868" alt="image" src="https://github.com/user-attachments/assets/d764c77f-46d0-4885-84e8-97bd565fcf14" />
+# User Settings
 <img width="1920" height="1047" alt="screencapture-localhost-3000-Settings-2026-05-16-23_16_23" src="https://github.com/user-attachments/assets/207ea0f7-6cdc-4679-97fe-e49a91fcef57" />
+# Dialer Prefrences
 <img width="1920" height="1426" alt="screencapture-localhost-3000-Settings-2026-05-16-23_16_53" src="https://github.com/user-attachments/assets/146b8cdd-dafb-4717-98a7-18e76b7075b3" />
 
 
